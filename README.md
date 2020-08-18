@@ -15,10 +15,10 @@ Difference between Stacks and Queues:
 * https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html
 * https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/
 
-<p> Stacks and Queues in Python: <br>
-https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b
-https://www.geeksforgeeks.org/stack-and-queues-in-python/ </p>
+Stacks and Queues in Python:
+* https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b
+* https://www.geeksforgeeks.org/stack-and-queues-in-python/
 
-<p> Stacks and Queues in Javascript: <br>
-https://medium.com/javascript-in-plain-english/javascript-what-are-stack-and-queue-79df7af5a566
-https://programmingsoup.com/stack-and-queue-in-javascript </p>
+Stacks and Queues in Javascript:
+* https://medium.com/javascript-in-plain-english/javascript-what-are-stack-and-queue-79df7af5a566
+* https://programmingsoup.com/stack-and-queue-in-javascript
