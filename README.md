@@ -8,7 +8,9 @@ One paragraph explaining the concept behind the topic assigned to your group. In
 
 At least two examples of the assigned topic.
 
+![Stack Vs Queue](https://imgur.com/T4YX5cf)
 
+![Priority Queue Vs Deque](https://imgur.com/T4YX5cf)
 
 
 One paragraph outlining different types of questions that can be asked/solved using the given topic.
