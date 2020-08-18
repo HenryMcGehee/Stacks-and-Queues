@@ -20,7 +20,7 @@ One paragraph outlining different types of questions that can be asked/solved us
 
 
 
-A link to all relevant resources. This can include the software's site, a helpful tutorial site, a medium article, etc.
+#### A link to all relevant resources. This can include the software's site, a helpful tutorial site, a medium article, etc.
 
 <p> Difference between Stacks and Queues: <br>
 https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html
