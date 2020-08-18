@@ -6,7 +6,7 @@ One paragraph explaining the concept behind the topic assigned to your group. In
 
 
 
-At least two examples of the assigned topic.
+# Examples
 
 ![Stack Vs Queue](https://i.imgur.com/T4YX5cf.png)
 
