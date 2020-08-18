@@ -12,7 +12,7 @@
 #### A link to all relevant resources. This can include the software's site, a helpful tutorial site, a medium article, etc.
 
 Difference between Stacks and Queues:
-* [CMU] (https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
+* [CMU](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
 * https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/
 
 Stacks and Queues in Python:
