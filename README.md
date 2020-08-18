@@ -28,7 +28,7 @@ https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures
 
 <p> Stacks and Queues in Python: <br>
 https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b
-https://www.geeksforgeeks.org/stack-and-queues-in-python/ </p>
+[Geeks](https://www.geeksforgeeks.org/stack-and-queues-in-python/) </p>
 
 <p> Stacks and Queues in Javascript: <br>
 https://medium.com/javascript-in-plain-english/javascript-what-are-stack-and-queue-79df7af5a566
