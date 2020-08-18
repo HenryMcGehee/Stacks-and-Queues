@@ -12,13 +12,13 @@
 #### A link to all relevant resources. This can include the software's site, a helpful tutorial site, a medium article, etc.
 
 Difference between Stacks and Queues:
-* [CMU](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
-* https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/
+* [CMU Article](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
+* [Geeks for Geeks Article](https://www.geeksforgeeks.org/difference-between-stack-and-queue-data-structures/)
 
 Stacks and Queues in Python:
-* https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b
-* https://www.geeksforgeeks.org/stack-and-queues-in-python/
+* [Medium Article](https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b)
+* [Geeks for Geeks Article](https://www.geeksforgeeks.org/stack-and-queues-in-python/)
 
 Stacks and Queues in Javascript:
-* https://medium.com/javascript-in-plain-english/javascript-what-are-stack-and-queue-79df7af5a566
-* https://programmingsoup.com/stack-and-queue-in-javascript
+* [Medium Article](https://medium.com/javascript-in-plain-english/javascript-what-are-stack-and-queue-79df7af5a566)
+* [Programming Soup Article](https://programmingsoup.com/stack-and-queue-in-javascript)
