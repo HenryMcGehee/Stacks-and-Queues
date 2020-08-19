@@ -12,7 +12,7 @@ Stack uses LIFO to define data, almost like stacking data on top of a pile and t
 
 #Queue
 #First-In-First-Out (FIFO)
-Queue uses FIFO to define data, always adding to the back of the line and removing from the front.  When a lot of people print to the same printer the first job submitted gets printed & removed first and all other jobs submitted are added to the back of the queue.  You delete with the operation DEQUEUE and add with the operation ENGUEUE.
+Queue uses FIFO to define data, always adding to the back of the line and removing from the front.  When a lot of people print to the same printer the first job submitted gets printed & removed first and all other jobs submitted are added to the back of the queue.  You delete with the operation DEQUEUE and add with the operation ENQUEUE.
 
 # Examples
 
